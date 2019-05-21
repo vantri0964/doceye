@@ -1,0 +1,2 @@
+<h3><p style="text-align: center;font-family: arial;color: #dc5b21;margin-top: 10px;">Chào mừng bạn đến với phần mềm lưu trữ hình ảnh DOCEYE</p></h3>
+<div style="text-align: center; height: 520px;"><img src="../image/q3.jpg" style="width:880px"></div>

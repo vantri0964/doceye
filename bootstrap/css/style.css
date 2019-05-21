@@ -1,0 +1,44 @@
+.product{
+	background: #eee;
+	margin-bottom: 15px;
+	border: 2px solid;
+	border-color: #b6c0c9;
+	min-height: 350px;
+	max-height: 450px;
+	min-width: 350px;
+  	display: inline-block;
+  	box-shadow: 5px 5px 5px #666;
+  	-moz-box-shadow: 5px 5px 5px #666;
+  	-webkit-box-shadow: 5px 5px 5px #666;
+	padding: 5px;
+}
+.product:hover {
+	background: #70ab8f;
+}
+.cost-product{
+	color:red;
+	margin: 2px;
+	text-align: right;
+}
+.name-product{
+	margin: 2px; 
+	margin-left: 5px;
+}
+div.product img{
+	min-height: 300px;
+	max-height: 300px;
+	min-width: 100%;
+	max-width: 100%;
+	border: 0;
+  	display: inline-block;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #dc5b21;
+}
+ .nav-link.active,
+  .show > .nav-link {
+    color: $nav-pills-link-active-color;
+    background-color: #dc5b21;
+  }
+
